@@ -1,0 +1,54 @@
+body{
+      background-image: url("https://images.homedepot-static.com/productImages/8a59c38d-59b7-42d3-84a6-469033ca2c2c/svn/fawn-marazzi-porcelain-floor-wall-tile-bt061818hd1p6-64_1000.jpg");
+      /* Full height */
+      height: 100%;
+
+      /* Center and scale the image nicely */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+h1 {
+  font-family: Papyrus, fantasy;
+  text-align: center;
+  border: 3px yellowgreen;
+}
+
+#myTextArea{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.input
+{
+    display: block;
+    text-align: center;
+}
+
+input
+{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+div.resulta{
+    display: block;
+    text-align: center;
+}
+
+resulta{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+div.user{
+    display: block;
+    text-align: center; 
+}
